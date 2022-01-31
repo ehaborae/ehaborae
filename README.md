@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Abd-Elrahman Fouad 👋:heart: </h2>
+<h2> Hi there, I'm EHAB BORAE 👋:heart: </h2>
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
@@ -17,7 +17,7 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 - personal email : ehabboare00@gmail.com
 
 
-<p><a href="http://Wa.me/201555156821" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/profile.php?id=100004428258793" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abd-el-rahman-fouad-53760720a" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
+<p><a href="http://Wa.me/201551606704" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/ehab.borae.10" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ehab-borae-39b54b180/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
 
 <!-- - whatsApp for bussines :http://Wa.me/201551606704
 - business email : e.borae@mansouracademy.net
