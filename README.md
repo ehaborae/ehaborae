@@ -51,7 +51,7 @@ Discover trips, activities & events created for you by passionate locals.<br />
 - ios : https://apps.apple.com/us/app/fosha/id1600031499 -->
 
 
-
+<img width="55%" alt="Mostafa's github stats" src="https://github-readme-stats.vercel.app/api?username=MostafaSolimanMO&show_icons=true&hide_border=true&title_color=000000" />
 
 <!--
 **AbdelrahmanFouad1/AbdelrahmanFouad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
