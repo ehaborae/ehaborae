@@ -25,7 +25,7 @@
 - facebook : https://www.facebook.com/abdullahmanss
 - linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
 - instagram : https://www.instagram.com/abdullahmanss
-- youtube channel : https://www.youtube.com/AbdullahMansourAli -->
+- youtube channel : https://www.youtube.com/channel/UCBVvbePKsWwTM4LImFRAnVw -->
 <hr>
 
 <h2> Samples from my projects </h2>
