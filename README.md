@@ -17,6 +17,7 @@
 <!-- <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 
+- profitional email : ehab.borae@inovola.com
 - personal email : ehabborae00@gmail.com
 
 
