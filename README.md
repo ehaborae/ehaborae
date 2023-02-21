@@ -34,6 +34,15 @@
 
 <h2> Samples from my projects </h2>
 
+### Looped
+Is a leading restaurant and payment tech provider, is a one-stop-shop restaurant management ecosystem that enables restaurateurs to effortlessly control, streamline, and grow all their operations, anytime and from anywhere. Whether it’s a cloud kitchen, a dine-in restaurant, a local bakery, a food truck, a quick service restaurant, a franchise, or a large-scale restaurant chain, our product lineup, software solutions.
+<p>
+
+ <a href="https://play.google.com/store/apps/details?id=com.looped.pos.looped_pos_new&pli=1" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/POS%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.looped.pos.waiter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Waiter%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.looped.cds" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/CDS%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.looped.kds" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/KDS%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<p>
+
+<hr>
+
 
 ### Tekram
 Tekram encompasses everything good about cleaning. We deliver the highest-quality cleaning service to our clients using skilled professionals who are versatile and adept in handling any household task. This has made it possible for us to provide disparate services like residential cleaning services.
