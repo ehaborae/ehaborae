@@ -1,4 +1,4 @@
-<h2> Hi there, I'm EHAB BORAE 👋:heart: </h2>
+<h2> Hi there, I'm EHAB BORAE 👋: </h2>
 
 ![](https://img.shields.io/badge/Software-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational)  ![](https://img.shields.io/badge/Exp-2+yrs-red)
 
