@@ -79,13 +79,14 @@ Point-of-Sale app built from scratch — adaptive layouts tuned for both phone a
 Five years of mobile engineering — with the apps shipped along the way:
 
 ```mermaid
+%%{init: {'themeVariables': {'fontSize': '20px'}}}%%
 timeline
     title Career
-    2021 : Mansour Academy — Junior Mobile Engineer
-    2022 : Inovola — Software Engineer : Apps — Looped · Tekram · Otlaat
-    2024 : KAF — Software Engineer
-    2025 : Squadio — Senior SE : Helpoo — Senior SE : Apps — Claro 2.0 · Khulasah · Helpoo · Matjrah
-    2026 : Synechron — Senior Software Engineer
+    2021 : Mansour Academy
+    2022 : Inovola : Looped · Tekram · Otlaat
+    2024 : KAF
+    2025 : Squadio : Helpoo : Claro 2.0 · Khulasah · Matjrah
+    2026 : Synechron
 ```
 
 <br/>
