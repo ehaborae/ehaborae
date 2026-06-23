@@ -1,94 +1,107 @@
-<h2> Hi there, I'm EHAB BORAE 👋: </h2>
+<h1 align="center">Hi, I'm Ehab Borae 👋</h1>
+<h3 align="center">Software Engineer · Flutter & Cross-Platform Mobile</h3>
 
-![](https://img.shields.io/badge/Software-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational)  ![](https://img.shields.io/badge/Exp-4yrs-red)
+<p align="center">
+  <img src="https://img.shields.io/badge/Software-Engineer-6f42c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20in-Egypt-c8102e?style=flat-square" />
+</p>
 
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+---
 
-<!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
- -->
+### About me
 
-<!-- <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-- Software Engineer
-<hr>
+- 🧑‍💻 Senior Software Engineer at **Squadio**, building and modernizing cross-platform Flutter apps.
+- 🏗️ I refactor legacy codebases into clean, modular, **feature-first** architectures.
+- 🎓 **BSc in Computer Science**, HTI (2022) — GPA 3.59, Excellent with Honors.
+- 🌍 Arabic (native) · English (fluent).
 
-<h2> Contact with me on </h2>
+---
 
-<!-- <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+### Tech stack
 
-- profitional email : borae@kaf.com.sa
-- personal email : ehabborae00@gmail.com
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Engineering:** Clean Architecture · SOLID · BLoC state management · Dependency Injection · Design Patterns (MVC / MVVM) · REST APIs · Testing · CI/CD · System Design · Responsive & Adaptive UI · Concurrency · Scrum
 
-<p><a href="http://Wa.me/201551606704" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ehab-borae-39b54b180/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCBVvbePKsWwTM4LImFRAnVw" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><p>
+---
 
-<!--  <a href="https://www.instagram.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+### Experience
 
-<!-- - whatsApp for bussines : http://Wa.me/201551606704
-- personal email : ehabborae00@gmail.com
-- facebook : https://www.facebook.com/ehab.borae.10
-- linkedIn : https://www.linkedin.com/in/ehab-borae-39b54b180
-- youtube channel : https://www.youtube.com/channel/UCBVvbePKsWwTM4LImFRAnVw -->
-<hr>
+| Role | Company | Period |
+|------|---------|--------|
+| Senior Software Engineer | **Squadio** | Mar 2025 – Present |
+| Senior Software Engineer | **KAF** — Riyadh, SA | May 2024 – May 2025 |
+| Mid Software Engineer | **Inovola** — Cairo, EG | Mar 2022 – May 2024 |
+| Junior Software Engineer | **Mansour Academy** — Cairo, EG | Feb 2021 – Mar 2022 |
 
-<h2> Samples from my projects </h2>
+---
 
-### Looped
-Is a leading restaurant and payment tech provider, is a one-stop-shop restaurant management ecosystem that enables restaurateurs to effortlessly control, streamline, and grow all their operations, anytime and from anywhere. Whether it’s a cloud kitchen, a dine-in restaurant, a local bakery, a food truck, a quick service restaurant, a franchise, or a large-scale restaurant chain, our product lineup, software solutions.
-<p>
+### Featured projects
 
- <a href="https://play.google.com/store/apps/details?id=com.looped.pos.looped_pos_new&pli=1" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/POS%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.looped.pos.waiter" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Waiter%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.looped.cds" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/CDS%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.looped.kds" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/KDS%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
-<p>
+**Claro 2.0** — UI/UX redesign and architectural modernization of a car-wash platform (iOS & Android). *2025–2026*
 
-<hr>
+**Khulasah** — Flutter platform connecting users with lawyers and legal resources; real-time messaging, notifications, secure auth. *2025–2026*
 
-### Tekram
-Tekram encompasses everything good about cleaning. We deliver the highest-quality cleaning service to our clients using skilled professionals who are versatile and adept in handling any household task. This has made it possible for us to provide disparate services like residential cleaning services.
+**Helpoo** — New UI and major business-logic improvements over an existing codebase. *2025*
 
-We are here to solve all your cleaning issues. We take up this responsibility gladly, giving you time to focus on better things in your life. We provide the highest-class cleaning service in Dubai, giving you nothing short of unmatched quality service.
-<p>
+**Matjrah** — Custom Point-of-Sale app built from scratch, adaptive layouts for mobile and tablet. *2025*
 
-  <a href="https://play.google.com/store/apps/details?id=com.tekram.app.tekram" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
-<a href="https://apps.apple.com/us/app/tekram-home-cleaning-service/id1642682373" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+**Rest Fort / Homa** — Legacy modernization: UI refresh, critical bug fixes, modular refactor. *2025*
 
-<hr>
+---
 
-### Medical Empire
-Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
-Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
-<p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+### Published apps
 
-<hr>
+**Looped** — restaurant & payment tech ecosystem (POS / CDS / KDS):
 
-### Otlaat
-When you are ready to travel, the Otalat App is your best tool  for finding and booking the very best deals on any kind of accommodation, anywhere in the world. Download the app now and enjoy discounts and other exclusive offers
+<a href="https://play.google.com/store/apps/details?id=com.looped.pos.looped_pos_new"><img alt="Looped POS" src="https://img.shields.io/badge/POS-Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.looped.pos.waiter"><img alt="Looped Waiter" src="https://img.shields.io/badge/Waiter-Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.looped.cds"><img alt="Looped CDS" src="https://img.shields.io/badge/CDS-Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.looped.kds"><img alt="Looped KDS" src="https://img.shields.io/badge/KDS-Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 
-Book in more than 900,000 hotels and apartments at the lowest price in more than 200 countries.
-<p><a href="https://play.google.com/store/apps/details?id=hotels.otlaat.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/%D8%B9%D8%B7%D9%84%D8%A7%D8%AA/id1579487881" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+**Tekram** — home cleaning services (Dubai):
 
-<hr>
+<a href="https://play.google.com/store/apps/details?id=com.tekram.app.tekram"><img alt="Tekram Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/tekram-home-cleaning-service/id1642682373"><img alt="Tekram iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
-### Fosha
+**Medical Empire** — health-products e-commerce:
 
-Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
-Discover trips, activities & events created for you by passionate locals.<br />
+<a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical"><img alt="Medical Empire Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/medical-empire/id1465106135"><img alt="Medical Empire iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.fosha.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/fosha/id1600031499" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+**Otlaat** — hotel & apartment booking:
 
-<!-- - android : https://play.google.com/store/apps/details?id=com.fosha.app
-- ios : https://apps.apple.com/us/app/fosha/id1600031499 -->
+<a href="https://play.google.com/store/apps/details?id=hotels.otlaat.com"><img alt="Otlaat Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/%D8%B9%D8%B7%D9%84%D8%A7%D8%AA/id1579487881"><img alt="Otlaat iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
+**Fosha** — things to do in Egypt:
 
-<!-- 
-**AbdelrahmanFouad1/AbdelrahmanFouad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<a href="https://play.google.com/store/apps/details?id=com.fosha.app"><img alt="Fosha Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/fosha/id1600031499"><img alt="Fosha iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
- 
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ehaborae&show_icons=true&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehaborae&layout=compact&hide_border=true" />
+</p>
+
+---
+
+### Get in touch
+
+<p align="center">
+  <a href="mailto:ehabborae00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ehab-borae-39b54b180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/201551606704"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCBVvbePKsWwTM4LImFRAnVw"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
