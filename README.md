@@ -88,8 +88,6 @@ timeline
     2026 : Synechron — Senior Software Engineer : Apps — Khulasah
 ```
 
-<sub>Squadio (contract) client delivery also included Nasser and Rest Fort / Homa.</sub>
-
 <br/>
 
 ## What I work with
