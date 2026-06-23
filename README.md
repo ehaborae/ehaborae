@@ -25,6 +25,8 @@
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/apps/claro.jpg" width="64" align="left" hspace="10" vspace="2" />
+
 ### Claro 2.0
 Car-wash platform rebuilt — full UI/UX redesign and architectural modernization across iOS & Android.
 
@@ -35,6 +37,8 @@ Car-wash platform rebuilt — full UI/UX redesign and architectural modernizatio
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/apps/khulasah.jpg" width="64" align="left" hspace="10" vspace="2" />
 
 ### Khulasah
 Legal-tech platform connecting users with lawyers — real-time messaging, push notifications, secure auth.
@@ -49,6 +53,8 @@ Legal-tech platform connecting users with lawyers — real-time messaging, push 
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/apps/helpoo.jpg" width="64" align="left" hspace="10" vspace="2" />
+
 ### Helpoo
 On-demand roadside assistance — new UI and major business-logic overhaul on top of an existing codebase.
 
@@ -59,6 +65,8 @@ On-demand roadside assistance — new UI and major business-logic overhaul on to
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/apps/matjrah.jpg" width="64" align="left" hspace="10" vspace="2" />
 
 ### Matjrah POS
 Point-of-Sale app built from scratch — adaptive layouts tuned for both phone and tablet checkout flows.
