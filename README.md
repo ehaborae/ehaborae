@@ -11,7 +11,7 @@
 
 ### About me
 
-- 🧑‍💻 Senior Software Engineer at **Squadio**, building and modernizing cross-platform Flutter apps.
+- 🧑‍💻 Senior Software Engineer at **Synechron** (Riyadh), building and modernizing cross-platform Flutter apps.
 - 🏗️ I refactor legacy codebases into clean, modular, **feature-first** architectures.
 - 🎓 **BSc in Computer Science**, HTI (2022) — GPA 3.59, Excellent with Honors.
 - 🌍 Arabic (native) · English (fluent).
@@ -36,12 +36,14 @@
 
 | Role | Company | Period |
 |------|---------|--------|
-| Senior Software Engineer | **Squadio** | Mar 2025 – Present |
-| Senior Software Engineer | **KAF** — Riyadh, SA | May 2024 – May 2025 |
-| Mid Software Engineer | **Inovola** — Cairo, EG | Mar 2022 – May 2024 |
-| Junior Software Engineer | **Mansour Academy** — Cairo, EG | Feb 2021 – Mar 2022 |
+| Senior Software Engineer | **Synechron** — Riyadh, SA | Feb 2026 – Present |
+| Senior Software Engineer | **Helpoo** — Cairo, EG | May 2025 – Mar 2026 |
+| Senior Software Engineer | **Squadio** (contract) | Mar 2025 – Present |
+| Software Engineer | **KAF** — Riyadh, SA | May 2024 – May 2025 |
+| Software Engineer | **Inovola** — Dokki, Giza, EG | May 2022 – Apr 2024 |
+| Junior Software Engineer (Mobile) | **Mansour Academy** — Cairo, EG | Jun 2021 – May 2022 |
 
-> **Selected work at Squadio:** Claro 2.0 · Khulasah · **Helpoo** · Matjrah · Nasser · Rest Fort / Homa
+> **Squadio client projects:** Claro 2.0 · Nasser · Rest Fort / Homa
 
 ---
 
