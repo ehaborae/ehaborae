@@ -41,6 +41,8 @@
 | Mid Software Engineer | **Inovola** — Cairo, EG | Mar 2022 – May 2024 |
 | Junior Software Engineer | **Mansour Academy** — Cairo, EG | Feb 2021 – Mar 2022 |
 
+> **Selected work at Squadio:** Claro 2.0 · Khulasah · **Helpoo** · Matjrah · Nasser · Rest Fort / Homa
+
 ---
 
 ### Featured projects
