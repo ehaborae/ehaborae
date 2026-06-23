@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🚀 Featured work
+## Featured work
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ Point-of-Sale app built from scratch — adaptive layouts tuned for both phone a
 
 <br/>
 
-## 🧭 Experience
+## Experience
 
 A decade of mobile work, most recent first:
 
@@ -99,7 +99,7 @@ A decade of mobile work, most recent first:
 
 <br/>
 
-## 🛠️ What I work with
+## What I work with
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -114,7 +114,7 @@ A decade of mobile work, most recent first:
 
 <br/>
 
-## 📦 Also shipped
+## Also shipped
 
 **Looped** — restaurant & payment ecosystem (POS / CDS). *2022–2023*
 &nbsp;
@@ -134,7 +134,7 @@ A decade of mobile work, most recent first:
 
 <br/>
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ehaborae&show_icons=true&hide_border=true&theme=default" />
@@ -143,7 +143,7 @@ A decade of mobile work, most recent first:
 
 <br/>
 
-## 🤝 Get in touch
+## Get in touch
 
 <p align="center">
   <a href="mailto:ehabborae00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
