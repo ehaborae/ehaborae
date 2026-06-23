@@ -69,32 +69,23 @@
 
 ### Published apps
 
-**Looped** — restaurant & payment tech ecosystem (POS / CDS / KDS):
-
+**Looped** — restaurant & payment tech ecosystem (POS / CDS). *2022–2023*
+<br>
 <a href="https://play.google.com/store/apps/details?id=com.looped.pos.looped_pos_new"><img alt="Looped POS" src="https://img.shields.io/badge/POS-Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.looped.pos.waiter"><img alt="Looped Waiter" src="https://img.shields.io/badge/Waiter-Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.looped.cds"><img alt="Looped CDS" src="https://img.shields.io/badge/CDS-Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.looped.kds"><img alt="Looped KDS" src="https://img.shields.io/badge/KDS-Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 
-**Tekram** — home cleaning services (Dubai):
-
-<a href="https://play.google.com/store/apps/details?id=com.tekram.app.tekram"><img alt="Tekram Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+**Tekram** — home cleaning services, Dubai. *2022*
+<br>
 <a href="https://apps.apple.com/us/app/tekram-home-cleaning-service/id1642682373"><img alt="Tekram iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
-**Medical Empire** — health-products e-commerce:
-
-<a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical"><img alt="Medical Empire Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://apps.apple.com/us/app/medical-empire/id1465106135"><img alt="Medical Empire iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
-
-**Otlaat** — hotel & apartment booking:
-
-<a href="https://play.google.com/store/apps/details?id=hotels.otlaat.com"><img alt="Otlaat Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+**Otlaat** — hotel & apartment booking. *2022*
+<br>
 <a href="https://apps.apple.com/us/app/%D8%B9%D8%B7%D9%84%D8%A7%D8%AA/id1579487881"><img alt="Otlaat iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
-**Fosha** — things to do in Egypt:
+**Medical Empire** — health-products e-commerce. *2022* · _store listing retired_
 
-<a href="https://play.google.com/store/apps/details?id=com.fosha.app"><img alt="Fosha Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
-<a href="https://apps.apple.com/us/app/fosha/id1600031499"><img alt="Fosha iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
+**Fosha** — things to do in Egypt. *2021* · _store listing retired_
 
 ---
 
