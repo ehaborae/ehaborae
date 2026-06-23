@@ -76,27 +76,19 @@ Point-of-Sale app built from scratch — adaptive layouts tuned for both phone a
 
 ## Experience
 
-A decade of mobile work, most recent first:
+Five years of mobile engineering — from first production app to senior delivery:
 
-```text
-2026 ─●  Synechron · Senior Software Engineer — Riyadh, SA
-        Building and modernizing cross-platform Flutter apps.
-
-2025 ─●  Helpoo · Senior Software Engineer — Cairo, EG
-        New UI + business-logic overhaul on a live product.
-
-2025 ─●  Squadio · Senior Software Engineer (contract)
-        Client delivery: Claro 2.0 · Nasser · Rest Fort / Homa.
-
-2024 ─●  KAF · Software Engineer — Riyadh, SA
-        Feature-first Flutter delivery for fintech.
-
-2022 ─●  Inovola · Software Engineer — Giza, EG
-        Two years building and shipping client mobile apps.
-
-2021 ─●  Mansour Academy · Junior Software Engineer (Mobile) — Cairo, EG
-        Where it started — first production Flutter work.
+```mermaid
+timeline
+    title Career
+    2021 : Mansour Academy · Junior Mobile Engineer
+    2022 : Inovola · Software Engineer
+    2024 : KAF · Software Engineer
+    2025 : Squadio · Senior SE (contract) : Helpoo · Senior SE
+    2026 : Synechron · Senior Software Engineer
 ```
+
+<sub>Squadio (contract) client delivery: Claro 2.0 · Nasser · Rest Fort / Homa.</sub>
 
 <br/>
 
