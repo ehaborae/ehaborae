@@ -21,13 +21,11 @@
 
 ## Featured work
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-<table border="0" cellspacing="0" cellpadding="0"><tr>
-<td valign="top"><img src="assets/apps/claro.png" width="72" /></td>
-<td width="16"></td>
-<td valign="top">
+
+<img src="assets/apps/claro.png" width="64" />
 
 ### Claro 2.0
 
@@ -39,13 +37,9 @@ Car-wash platform rebuilt — full UI/UX redesign and architectural modernizatio
 <a href="https://apps.apple.com/sa/app/claro-%D9%83%D9%84%D8%A7%D8%B1%D9%88/id1576924630"><img alt="Claro iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
 </td>
-</tr></table>
-</td>
 <td width="50%" valign="top">
-<table border="0" cellspacing="0" cellpadding="0"><tr>
-<td valign="top"><img src="assets/apps/khulasah.png" width="72" /></td>
-<td width="16"></td>
-<td valign="top">
+
+<img src="assets/apps/khulasah.png" width="64" />
 
 ### Khulasah
 
@@ -57,15 +51,11 @@ Legal-tech platform connecting users with lawyers — real-time messaging, push 
 <a href="https://apps.apple.com/us/app/khulasah-%D8%AE%D9%84%D8%A7%D8%B5%D8%A9/id6747206708"><img alt="Khulasah iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
 </td>
-</tr></table>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<table border="0" cellspacing="0" cellpadding="0"><tr>
-<td valign="top"><img src="assets/apps/helpoo.png" width="72" /></td>
-<td width="16"></td>
-<td valign="top">
+
+<img src="assets/apps/helpoo.png" width="64" />
 
 ### Helpoo
 
@@ -77,13 +67,9 @@ On-demand roadside assistance — new UI and major business-logic overhaul on to
 <a href="https://apps.apple.com/eg/app/helpoo/id1627316561"><img alt="Helpoo iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
 </td>
-</tr></table>
-</td>
 <td width="50%" valign="top">
-<table border="0" cellspacing="0" cellpadding="0"><tr>
-<td valign="top"><img src="assets/apps/matjrah.png" width="72" /></td>
-<td width="16"></td>
-<td valign="top">
+
+<img src="assets/apps/matjrah.png" width="64" />
 
 ### Matjrah POS
 
@@ -94,8 +80,6 @@ Point-of-Sale app built from scratch — adaptive layouts tuned for both phone a
 <a href="https://play.google.com/store/apps/details?id=com.matjrah.pos"><img alt="Matjrah POS Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://apps.apple.com/us/app/matjrah-%D9%85%D8%AA%D8%AC%D8%B1%D8%A9/id6742102466"><img alt="Matjrah iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
-</td>
-</tr></table>
 </td>
 </tr>
 </table>
