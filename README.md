@@ -46,12 +46,22 @@
 ### Featured projects
 
 **Claro 2.0** — UI/UX redesign and architectural modernization of a car-wash platform (iOS & Android). *2025–2026*
+<br>
+<a href="https://play.google.com/store/apps/details?id=com.claro.app"><img alt="Claro Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/sa/app/claro-%D9%83%D9%84%D8%A7%D8%B1%D9%88/id1576924630"><img alt="Claro iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
 **Khulasah** — Flutter platform connecting users with lawyers and legal resources; real-time messaging, notifications, secure auth. *2025–2026*
+<br>
+<a href="https://apps.apple.com/us/app/khulasah-%D8%AE%D9%84%D8%A7%D8%B5%D8%A9/id6747206708"><img alt="Khulasah iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
 **Helpoo** — New UI and major business-logic improvements over an existing codebase. *2025*
+<br>
+<a href="https://play.google.com/store/apps/details?id=com.helpoo.app"><img alt="Helpoo Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/eg/app/helpoo/id1627316561"><img alt="Helpoo iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
 **Matjrah** — Custom Point-of-Sale app built from scratch, adaptive layouts for mobile and tablet. *2025*
+<br>
+<a href="https://play.google.com/store/apps/details?id=com.matjrah.pos"><img alt="Matjrah POS Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 
 **Rest Fort / Homa** — Legacy modernization: UI refresh, critical bug fixes, modular refactor. *2025*
 
