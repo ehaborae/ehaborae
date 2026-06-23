@@ -56,6 +56,7 @@
 
 **Khulasah** — Flutter platform connecting users with lawyers and legal resources; real-time messaging, notifications, secure auth. *2025–2026*
 <br>
+<a href="https://play.google.com/store/apps/details?id=com.khulasah.app"><img alt="Khulasah Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://apps.apple.com/us/app/khulasah-%D8%AE%D9%84%D8%A7%D8%B5%D8%A9/id6747206708"><img alt="Khulasah iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
 **Helpoo** — New UI and major business-logic improvements over an existing codebase. *2025*
