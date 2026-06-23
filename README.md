@@ -33,7 +33,7 @@
 
 Car-wash platform rebuilt — full UI/UX redesign and architectural modernization across iOS & Android.
 
-`2025–2026` · Flutter · iOS + Android
+`2025–2026`
 
 <a href="https://play.google.com/store/apps/details?id=com.claro.app"><img alt="Claro Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://apps.apple.com/sa/app/claro-%D9%83%D9%84%D8%A7%D8%B1%D9%88/id1576924630"><img alt="Claro iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
@@ -51,7 +51,7 @@ Car-wash platform rebuilt — full UI/UX redesign and architectural modernizatio
 
 Legal-tech platform connecting users with lawyers — real-time messaging, push notifications, secure auth.
 
-`2025–2026` · Flutter · iOS + Android
+`2025–2026`
 
 <a href="https://play.google.com/store/apps/details?id=com.khulasah.app"><img alt="Khulasah Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://apps.apple.com/us/app/khulasah-%D8%AE%D9%84%D8%A7%D8%B5%D8%A9/id6747206708"><img alt="Khulasah iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
@@ -71,7 +71,7 @@ Legal-tech platform connecting users with lawyers — real-time messaging, push 
 
 On-demand roadside assistance — new UI and major business-logic overhaul on top of an existing codebase.
 
-`2025` · Flutter · iOS + Android
+`2025`
 
 <a href="https://play.google.com/store/apps/details?id=com.helpoo.app"><img alt="Helpoo Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://apps.apple.com/eg/app/helpoo/id1627316561"><img alt="Helpoo iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
@@ -89,7 +89,7 @@ On-demand roadside assistance — new UI and major business-logic overhaul on to
 
 Point-of-Sale app built from scratch — adaptive layouts tuned for both phone and tablet checkout flows.
 
-`2025` · Flutter · iOS + Android
+`2025`
 
 <a href="https://play.google.com/store/apps/details?id=com.matjrah.pos"><img alt="Matjrah POS Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
 <a href="https://apps.apple.com/us/app/matjrah-%D9%85%D8%AA%D8%AC%D8%B1%D8%A9/id6742102466"><img alt="Matjrah iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
