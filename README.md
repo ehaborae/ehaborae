@@ -76,16 +76,16 @@ Point-of-Sale app built from scratch — adaptive layouts tuned for both phone a
 
 ## Experience
 
-Five years of mobile engineering — most recent first, with the apps shipped along the way:
+Five years of mobile engineering — with the apps shipped along the way:
 
 ```mermaid
 timeline
     title Career
-    2026 : Synechron — Senior Software Engineer : Apps — Khulasah
-    2025 : Squadio — Senior SE : Helpoo — Senior SE : Apps — Claro 2.0 · Helpoo · Matjrah
-    2024 : KAF — Software Engineer
-    2022 : Inovola — Software Engineer : Apps — Looped · Tekram · Otlaat
     2021 : Mansour Academy — Junior Mobile Engineer
+    2022 : Inovola — Software Engineer : Apps — Looped · Tekram · Otlaat
+    2024 : KAF — Software Engineer
+    2025 : Squadio — Senior SE : Helpoo — Senior SE : Apps — Claro 2.0 · Helpoo · Matjrah
+    2026 : Synechron — Senior Software Engineer : Apps — Khulasah
 ```
 
 <sub>Squadio (contract) client delivery also included Nasser and Rest Fort / Homa.</sub>
