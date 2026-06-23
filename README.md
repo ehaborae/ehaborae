@@ -63,9 +63,10 @@ On-demand roadside assistance — new UI and major business-logic overhaul on to
 ### Matjrah POS
 Point-of-Sale app built from scratch — adaptive layouts tuned for both phone and tablet checkout flows.
 
-`2025` · Flutter · Android
+`2025` · Flutter · iOS + Android
 
 <a href="https://play.google.com/store/apps/details?id=com.matjrah.pos"><img alt="Matjrah POS Android" src="https://img.shields.io/badge/Google%20Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/matjrah-%D9%85%D8%AA%D8%AC%D8%B1%D8%A9/id6742102466"><img alt="Matjrah iOS" src="https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=app-store&logoColor=white" /></a>
 
 </td>
 </tr>
