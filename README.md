@@ -76,26 +76,16 @@ Point-of-Sale app built from scratch — adaptive layouts tuned for both phone a
 
 ## Experience
 
-Five years of mobile engineering — roles on top, apps shipped along the way below:
+Five years of mobile engineering — most recent first, with the apps shipped along the way:
 
 ```mermaid
-flowchart LR
-    Y2021(("2021")) --> R1["Mansour Academy<br/>Junior Mobile Engineer"]
-    Y2022(("2022")) --> R2["Inovola<br/>Software Engineer"]
-    Y2022 --> A2["Apps — Looped · Tekram · Otlaat"]
-    Y2024(("2024")) --> R3["KAF<br/>Software Engineer"]
-    Y2025(("2025")) --> R4["Squadio · Helpoo<br/>Senior Software Engineer"]
-    Y2025 --> A5["Apps — Claro 2.0 · Helpoo · Matjrah"]
-    Y2026(("2026")) --> R5["Synechron<br/>Senior Software Engineer"]
-    Y2026 --> A6["Apps — Khulasah"]
-    Y2021 --> Y2022 --> Y2024 --> Y2025 --> Y2026
-
-    classDef year fill:#ddf4ff,stroke:#0969da,color:#0969da,stroke-width:2px;
-    classDef role fill:#f6f8fa,stroke:#57606a,color:#24292f;
-    classDef app fill:#dafbe1,stroke:#1a7f37,color:#1a7f37;
-    class Y2021,Y2022,Y2024,Y2025,Y2026 year;
-    class R1,R2,R3,R4,R5 role;
-    class A2,A5,A6 app;
+timeline
+    title Career
+    2026 : Synechron — Senior Software Engineer : Apps — Khulasah
+    2025 : Squadio — Senior SE : Helpoo — Senior SE : Apps — Claro 2.0 · Helpoo · Matjrah
+    2024 : KAF — Software Engineer
+    2022 : Inovola — Software Engineer : Apps — Looped · Tekram · Otlaat
+    2021 : Mansour Academy — Junior Mobile Engineer
 ```
 
 <sub>Squadio (contract) client delivery also included Nasser and Rest Fort / Homa.</sub>
