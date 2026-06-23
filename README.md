@@ -84,8 +84,8 @@ timeline
     2021 : Mansour Academy — Junior Mobile Engineer
     2022 : Inovola — Software Engineer : Apps — Looped · Tekram · Otlaat
     2024 : KAF — Software Engineer
-    2025 : Squadio — Senior SE : Helpoo — Senior SE : Apps — Claro 2.0 · Helpoo · Matjrah
-    2026 : Synechron — Senior Software Engineer : Apps — Khulasah
+    2025 : Squadio — Senior SE : Helpoo — Senior SE : Apps — Claro 2.0 · Khulasah · Helpoo · Matjrah
+    2026 : Synechron — Senior Software Engineer
 ```
 
 <br/>
